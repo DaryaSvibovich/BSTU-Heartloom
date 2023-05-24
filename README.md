@@ -1,5 +1,10 @@
-# BSTU-Heartloom
-Сайт интернет-магазина женской и мужской парфюмерии. На сайте представлен каталог различных видов парфюмерии. В шапке сайта располагается навигация по магазину, представленная следующими секциями: каталог, хит продаж, видео, выгодно и поддержка. Также на сайте можно рассчитать стоимость заказа и совершить покупку.
 
+  # Dasha
 
-Сайт магазина оформлен в бежевых тонах. Основные использованные шрифты - Forum и Fondamento
+  Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
+
+  To preview and run the project on your device:
+  1) Open project folder in <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
+  2) In the terminal, run `npm install`
+  3) Run `npm start` to view project in browser
+  

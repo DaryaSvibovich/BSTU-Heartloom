@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-forum: Forum;
+  --desc-header-xs: Rubik;
+  --font-fondamento: Fondamento;
+
+  /* font sizes */
+  --font-size-4xl: 23px;
+  --font-size-5xl: 24px;
+  --font-size-33xl: 52px;
+  --font-size-base: 16px;
+  --desc-header-xs-size: 18px;
+  --font-size-xl: 20px;
+  --font-size-13xl: 32px;
+  --font-size-9xl: 28px;
+
+  /* Colors */
+  --color-antiquewhite-100: #f5eadb;
+  --color-antiquewhite-200: #ebdfd0;
+  --color-antiquewhite-300: #e6d7c4;
+  --color-gray-100: #938a7d;
+  --color-gray-200: #0f0f0f;
+  --color-gray-300: #0a0701;
+  --color-gray-400: rgba(0, 0, 0, 0.5);
+  --color-black: #000;
+  --color-tan-100: #988d6b;
+  --color-tan-200: #968a68;
+  --color-oldlace: #fff4e6;
+  --main-onsurface: #414141;
+  --color-darkslategray-100: #3d3737;
+}
